@@ -1,4 +1,4 @@
-ONGOING:
+ONGOING PROJECT:
 
 As a personal project, I am analyzing trends and patterns of Criminal offences having occured in the Montreal region, between 2020 and 2025. This project is being done in Power BI, 
 as the data visualization will best allow the public to understand the severity of crimes occuring across the many areas of the Montreal region. Due to the dataset only including the
